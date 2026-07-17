@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Breakit</title>
+</head>
+<body>
+
+
 import { useState, useEffect, useRef, useCallback } from "react";
 import { Send, Smile, Users, Newspaper, Lock, X } from "lucide-react";
 
@@ -633,3 +643,5 @@ export default function Breakit() {
     </div>
   );
 }
+</body>
+</html>
